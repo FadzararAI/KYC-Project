@@ -6,7 +6,7 @@ KYC (Know-Your-Client) is a project inspired by banks procedure to get informati
 In this project, I am responsible for creating the entire system as a website. To be more specific, I am responsible for creating both the front-end and the back-end of the system as well as designing fundamental diagrams to achieve our objectives.
 
 ## Technologies
-This KYC project uses **Native PHP** as the backend and **HTML + Tailwind CSS** as the front-end. Additionally, **Javascript** is also used to show the tables using DataTables from the database and also a little bit part for the back-end alongside PHP.
+This KYC project uses **Native PHP** as the back-end and **HTML + Tailwind CSS** as the front-end. Additionally, **Javascript** is also used to show the tables using DataTables from the database and also a little bit part for the back-end alongside PHP.
 
 I also simulate RESTful API in some of the PHP code that connects to the MySQL Database. It's a bit messy so feel free to look for them yourself.
 
